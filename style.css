@@ -1,0 +1,33 @@
+*{
+    background-color: bisque;
+
+}
+footer{
+    border:2px solid black;
+    
+}
+.container{
+    display: flex;
+    gap: 15px;
+    margin-left: 350px;
+    
+}
+#main-container{
+    border:2px solid black;
+   padding: 20px;
+   
+    
+    position: sticky;
+}
+.container1{
+    display: flex;
+    gap: 15px;
+    
+}
+#para1{
+    display: flex;
+    margin-top: 300px;
+}
+#href{
+    padding-right: 15px;
+}
